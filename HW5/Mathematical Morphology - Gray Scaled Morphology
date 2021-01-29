@@ -1,0 +1,13 @@
+Description
+
+Write programs which do gray-scale morphology on a gray-scale image(lena.bmp):
+(a) Dilation
+(b) Erosion
+(c) Opening
+(d) Closing
+
+Announcement
+
+．Please use the octogonal 3-5-5-5-3 kernel. (which is actually taking the local maxima or local minima respectively).
+．4 images should be included in your report: Dilation, Erosion, Opening and Closing.
+．You can use any programing language to implement homework, however, you'll get zero point if you just call existing library.
