@@ -1,0 +1,11 @@
+Description
+
+Write a program which counts the Yokoi connectivity number on a downsampled image(lena.bmp).
+
+Announcement
+
+．Downsampling Lena from 512x512 to 64x64:
+  Binarize the benchmark image lena as in HW2, then using 8x8 blocks as a unit, take the topmost-left pixel as the downsampled data.
+．Count the Yokoi connectivity number on a downsampled lena using 4-connected.
+．Result of this assignment is a 64x64 matrix.
+．You can use any programing language to implement homework, however, you'll get zero point if you just call existing library.
