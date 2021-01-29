@@ -1,0 +1,14 @@
+Write programs which do binary morphology on a binary image:
+(a) Dilation
+(b) Erosion
+(c) Opening
+(d) Closing
+(e) Hit-and-miss transform
+
+Announcement
+．Binarize Lena with the threshold 128 (0-127,128-255).
+．Please use the octogonal 3-5-5-5-3 kernel.
+．Please use the "L" shaped kernel (same as the text book) to detect the upper-right corner for hit-and-miss transform.
+．Please process the white pixels (operating on white pixels).
+．5 images should be included in your report: Dilation, Erosion, Opening, Closing, and Hit-and-Miss.
+．You can use any programing language to implement homework, however, you'll get zero point if you just call existing library.
